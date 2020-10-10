@@ -1,5 +1,6 @@
 CC = gcc
 LDLIBS = -lncurses
+CFLAGS = -Wall
 
 all : ant
 
