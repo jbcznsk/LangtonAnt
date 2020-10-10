@@ -1,3 +1,5 @@
 ant
 *~
 *.o
+*.out
+*.swp
